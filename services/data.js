@@ -1,4 +1,4 @@
-var movies = [
+var films = [
   {name: "Aladdin"},
-  {name: "Cinderella"} 
+  {name: "Cinderella"}
 ]
