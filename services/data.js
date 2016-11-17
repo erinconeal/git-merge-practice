@@ -1,4 +1,4 @@
-var movies = [
+var dvd = [
   {name: "Aladdin"},
-  {name: "Cinderella"} 
+  {name: "Cinderella"}
 ]
